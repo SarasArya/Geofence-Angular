@@ -1,0 +1,1 @@
+The purpose of this project to showcase how can you implement Geofence perimeter in AngularJS. You can save this Geofence in a NodeJS-MongoDB powered backned to be used by an IoV device to acertain whether it is inside or outside that perimeter.

@@ -1,0 +1,25 @@
+{
+  "name": "Geofence",
+  "authors": [
+    "SarasArya <saras.arya@gmail.com>"
+  ],
+  "description": "To test the geofence capabilities",
+  "main": "app.js",
+  "keywords": [
+    "Geofence",
+    "Angular-Geofence"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.6.1"
+  }
+}
